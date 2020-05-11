@@ -3,3 +3,5 @@ In this vibrant and magical adventure platformer, you are a lost child whose spi
 
 * Outlined the story and overall aesthetic of the game through mood boards and concept art
 * Used Photoshop and After Effects to design sprite sheets and animate the opening cut-scene
+
+Please feel free to check out the cutscene animation [here](https://www.youtube.com/watch?v=uTvvAu_C7_Y)
